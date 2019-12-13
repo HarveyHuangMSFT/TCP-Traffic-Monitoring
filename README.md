@@ -7,6 +7,7 @@ INSTALLATION INSTRUCTIONS:
 2. In the terminal window enter:
 
 py -m pip install ip2geotools
+
 py -m pip install scapy
 
 Run the main.py program using IDLE or TERMINAL
