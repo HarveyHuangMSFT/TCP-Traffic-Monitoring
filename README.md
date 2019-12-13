@@ -11,3 +11,5 @@ py -m pip install ip2geotools
 py -m pip install scapy
 
 Run the main.py program using IDLE or TERMINAL
+
+A text file will be created indicating the IPs and locations while the program is running. You can adjust the number of IPs/how long you want to monitor based by changing it within the code
